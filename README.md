@@ -71,7 +71,7 @@ This project showcases the integration of the following AWS services:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/Eldrago12/WhisperWave
+   git clone https://github.com/Eldrago12/WhisperWave.git
    ```
 
 2. Follow the deployment steps mentioned above.
