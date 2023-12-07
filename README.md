@@ -83,7 +83,6 @@ This project showcases the integration of the following AWS services:
 ## Contributors
 
 - Sirshak Dolai (https://github.com/Eldrago12)
-- Himesh Maurya (https://github.com/HimeshMaurya)
 
 ## License
 
